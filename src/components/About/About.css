@@ -1,0 +1,11 @@
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.border {
+    border: 2px solid lightcoral;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
